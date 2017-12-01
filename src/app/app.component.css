@@ -1,0 +1,11 @@
+.btn {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  p { background-color: #CDDC39; }
